@@ -1,7 +1,5 @@
-# Time Complexity
-# The time complexity is O(m * n) because we iterate over the matrix once.
-# Space Complexity
-# The space complexity is O(1) excluding the output array.
+# The time complexity - O(m * n) because we iterate over the matrix once.
+# The space complexity - O(1) excluding the output array.
 
 from typing import List
 
