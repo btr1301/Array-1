@@ -1,7 +1,5 @@
-# Time Complexity
-# The time complexity is O(n) because we make two passes over the input array.
-# Space Complexity
-# The space complexity is O(1) because we only use a constant amount of space (not counting the output array).
+# Time complexity - O(n) because we make two passes over the input array.
+# Space complexity - O(1) because we only use a constant amount of space (not counting the output array).
 
 def productExceptSelf(nums):
     n = len(nums)
